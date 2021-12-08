@@ -6,8 +6,8 @@ Currently I'm Learning and Practicing courses and Algorithms,
 ### :fleur_de_lis: You can keep in touch me with :
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
 
-[1.2]: https://s4.uupload.ir/files/13_bk4q.png 
-[2.2]: https://s4.uupload.ir/files/12_ua97.png 
+[1.2]: https://s4.uupload.ir/files/twitter_prkb.png
+[2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
 
 
 [1]: https://s4.uupload.ir/files/twitter_prkb.png
