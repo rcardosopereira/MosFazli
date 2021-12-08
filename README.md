@@ -10,8 +10,8 @@ Currently I'm Learning and Practicing courses and Algorithms,
 [2.2]: https://s4.uupload.ir/files/12_ua97.png 
 
 
-[1]: https://twitter.com/MosFazli
-[2]: https://www.linkedin.com/in/MosFazli/
+[1]: https://s4.uupload.ir/files/twitter_prkb.png
+[2]: hhttps://s4.uupload.ir/files/linkedin_amwn.png
 
 ###
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MosFazli&show_icons=true&theme=highcontrast)
