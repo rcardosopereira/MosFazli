@@ -3,10 +3,13 @@
 Currently I'm Learning and Practicing courses and Algorithms,
 
 
-### :fleur_de_lis: You can keep in touch me with [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]
+### :fleur_de_lis: You can keep in touch me with :
+[![Twitter][1.2]][1],
+ or on
+ [![LinkedIn][2.2]][2]
 
-[1.2]: https://s4.uupload.ir/files/1534043159twitter-logo-transparent_q984.png (twitter icon without padding)
-[2.2]: https://s4.uupload.ir/files/linkedin_logo_initials_chm3.png (LinkedIn icon without padding)
+[1.2]: https://s4.uupload.ir/files/13_bk4q.png 
+[2.2]: https://s4.uupload.ir/files/12_ua97.png 
 
 
 [1]: https://twitter.com/MosFazli
