@@ -5,4 +5,4 @@
 ### Currently I'm Learning and Practicing courses and Algorithms,
 ### You can keep in touch me with @MosFazli in any social media
 ### .
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MosFazli&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MosFazli&show_icons=true&theme=highcontrast)
