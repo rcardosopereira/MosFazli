@@ -1,4 +1,4 @@
-## Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### :anatomical_heart: I'm Mostafa Fazli and I'm interested in programming and graphic design, 
 Currently I'm Learning and Practicing courses and Algorithms,
 
