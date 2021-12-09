@@ -1,5 +1,6 @@
-# Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## :man_technologist: I'm Mostafa Fazli and I'm interested in programming and graphic design, 
+ <h1 align="center">Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/></h1>
+  
+## :man_technologist: I'm Mostafa Fazli and I'm interested in programming and graphic design
 Currently I'm Learning and Practicing courses and Algorithms,
 
 
@@ -17,6 +18,6 @@ Currently I'm Learning and Practicing courses and Algorithms,
 [3]: https://www.instagram.com/mosfazli
 [4]: http://telegram.me/MosFazli
 
-###
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MosFazli&show_icons=true&theme=highcontrast)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=MosFazli&hide=html&layout=compact&theme=highcontrast)](https://github.com/MosFazli/)
