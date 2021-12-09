@@ -3,7 +3,7 @@
 Currently I'm Learning and Practicing courses and Algorithms,
 
 
-### :ringed_planet: You can keep in touch me with :
+### :call_me_hand: You can keep in touch me with :
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]
 
 [1.2]: https://s4.uupload.ir/files/twitter_prkb.png
