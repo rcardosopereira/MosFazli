@@ -18,7 +18,7 @@ Currently I'm Learning and Practicing courses and Algorithms,
 [3]: https://www.instagram.com/mosfazli
 [4]: http://telegram.me/MosFazli
 
-<details open="true">
+<details close="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MosFazli&show_icons=true&theme=highcontrast" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosFazli&hide=html&layout=compact&theme=highcontrast" />
