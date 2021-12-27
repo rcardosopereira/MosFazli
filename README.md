@@ -21,6 +21,6 @@ Currently I'm Learning and Practicing courses and Algorithms,
 <details open="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MosFazli&show_icons=true&theme=highcontrast" />
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=MosFazli&hide=html&layout=compact&theme=highcontrast)](https://github.com/MosFazli/)
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosFazli&hide=html&layout=compact&theme=highcontrast" />
  
  </details>
