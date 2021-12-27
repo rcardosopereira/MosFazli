@@ -19,7 +19,7 @@ Currently I'm Learning and Practicing courses and Algorithms,
 [4]: http://telegram.me/MosFazli
 
 <details open="false">
-  <summary><b>:gear: &nbsp;GitHub Stats</b></summary>
+  <summary><b>:gear: &nbsp;Git statistics</b></summary>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MosFazli&show_icons=true&theme=highcontrast)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=MosFazli&hide=html&layout=compact&theme=highcontrast)](https://github.com/MosFazli/)
