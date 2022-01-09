@@ -1,7 +1,7 @@
  <h1 align="center">Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/></h1>
   
 ## :man_technologist: I'm Mostafa Fazli and I'm interested in programming and graphic design
-Currently I'm Learning and Practicing courses and Algorithms,
+Currently I'm learning and practicing courses and algorithms,
 
 
 ### :call_me_hand: You can keep in touch me with :
