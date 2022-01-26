@@ -4,7 +4,7 @@
 ### :man_technologist: I'm Mostafa Fazli and I'm interested in programming and graphic design
 Currently I'm learning and practicing courses and algorithms,
 
-<img align='right' height='220' style="margin-right:20px" src='assets/programmer.png' alt='Mudar imagem'>
+<img align='right' height='220' style="margin-right:20px" src='assets/programmer.png' alt='Programmer'>
 
 
 ### :call_me_hand: You can keep in touch me with :
