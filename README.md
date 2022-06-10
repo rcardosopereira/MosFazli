@@ -1,4 +1,4 @@
- <h1 align="center">Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/></h1>
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=MosFazli%20&fontAlignY=40&color=gradient)
  
 
 ### :man_technologist: I'm Mostafa Fazli and I'm interested in programming and graphic design
