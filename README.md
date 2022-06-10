@@ -21,6 +21,21 @@ Currently I'm learning and practicing courses and algorithms,
 [3]: https://www.instagram.com/mosfazli
 [4]: http://telegram.me/MosFazli
 
+<br>
+
+<h2>Skills</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,react,redux,nextjs,vue,netlify,html,css,js,ts,tailwind,bootstrap" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,materialui,python,django,mysql,sqlite,mongo,c,cpp,java,github" />
+  </a>
+</p>
+
 <details close="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MosFazli&show_icons=true&theme=highcontrast" />
