@@ -16,10 +16,14 @@ Currently I'm learning and practicing courses and algorithms,
 [3.2]: https://s4.uupload.ir/files/instagram_6djz.png
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
-[1]: https://twitter.com/MosFazli
-[2]: https://www.linkedin.com/in/mosfazli/
-[3]: https://www.instagram.com/mosfazli
-[4]: http://telegram.me/MosFazli
+[1]: https://www.linkedin.com/in/mosfazli/
+[2]: https://www.instagram.com/mosfazli
+[3]: http://telegram.me/MosFazli
+[4]: https://twitter.com/MosFazli
+
+
+<br>
+<br>
 
 <img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
 
