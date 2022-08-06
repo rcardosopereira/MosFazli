@@ -21,7 +21,7 @@ Currently I'm learning and practicing courses and algorithms,
 [3]: https://www.instagram.com/mosfazli
 [4]: http://telegram.me/MosFazli
 
-<img align='left' height='220' style="margin-left:20px" src='assets/giphy.webp' alt='Skills'>
+<img align='left' height='220' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
 
 <br>
 <h2>Skills</h2>
