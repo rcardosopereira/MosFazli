@@ -4,7 +4,7 @@
 ### :man_technologist: I'm Mostafa Fazli and I'm interested in programming and graphic design
 Currently I'm learning and practicing courses and algorithms,
 
-<img align='right' height='220' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Programmer'>
+<img align='right' height='220' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 
 <br>
 <h2>Social Networks</h2>
@@ -20,6 +20,8 @@ Currently I'm learning and practicing courses and algorithms,
 [2]: https://www.linkedin.com/in/mosfazli/
 [3]: https://www.instagram.com/mosfazli
 [4]: http://telegram.me/MosFazli
+
+<img align='left' height='220' style="margin-left:20px" src='assets/giphy.webp' alt='Skills'>
 
 <br>
 <h2>Skills</h2>
