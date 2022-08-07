@@ -19,7 +19,7 @@ Currently I'm learning and practicing courses and algorithms,
 [1]: https://twitter.com/MosFazli
 [2]: https://www.linkedin.com/in/mosfazli/
 [3]: https://www.instagram.com/mosfazli
-[4]: http://telegram.me/MosFazli
+[4]: https://telegram.me/MosFazli
 
 
 <br>
