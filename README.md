@@ -45,8 +45,10 @@ Currently I'm learning and practicing courses and algorithms,
 
 <details close="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
-  <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=MosFazli&show_icons=true&theme=highcontrast" />
-  <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosFazli&hide=html&layout=compact&theme=highcontrast" />
+ <div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MosFazli&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosFazli&hide=html&layout=compact&theme=highcontrast" />
+ </div>
  
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
